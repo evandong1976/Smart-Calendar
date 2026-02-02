@@ -48,3 +48,7 @@ prisma/dev.db
 
 # aws cdk
 cdk.out/
+
+# nested app
+calendar_app/node_modules/
+calendar_app/.next/
