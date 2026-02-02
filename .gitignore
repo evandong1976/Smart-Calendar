@@ -52,3 +52,7 @@ cdk.out/
 # nested app
 calendar_app/node_modules/
 calendar_app/.next/
+
+# nested app
+calendar_app/node_modules/
+calendar_app/.next/
